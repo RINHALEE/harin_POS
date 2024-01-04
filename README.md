@@ -12,4 +12,4 @@
 </div>
 
 ## ERD
-![image](https://github.com/RINHALEE/harin_POS/assets/128150726/0926bb5d-d2db-4f15-b25a-511acf26b6ff)
+<img src="https://github.com/RINHALEE/harin_POS/assets/128150726/0926bb5d-d2db-4f15-b25a-511acf26b6ff' width="200" />
