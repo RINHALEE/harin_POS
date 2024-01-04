@@ -30,7 +30,7 @@
 ![image](https://github.com/RINHALEE/harin_POS/assets/128150726/ac4c99c6-20f6-4437-9414-424d31e128f5)
 
 #### 로그인에 실패했을 경우
-![image](https://github.com/RINHALEE/harin_POS/assets/128150726/3904cb0e-a863-4ecb-8641-c6e081c6bfad)
+![image](https://github.com/RINHALEE/harin_POS/assets/128150726/a0e7c7c6-c024-439e-9ce8-f304bca803c9)
 
 ### 2. 회원가입
 ![image](https://github.com/RINHALEE/harin_POS/assets/128150726/0dfd04b4-e69b-458d-a788-1f8fb2e71f12)
