@@ -50,6 +50,11 @@
 판매량과 매출액을 일별, 주별, 월별로 확인할 수 있으며, 캘린더를 통해 원하는 날짜의 판매량과 매출액을 알 수 있습니다.
 ![image](https://github.com/RINHALEE/harin_POS/assets/128150726/34084a7f-cec6-44ea-822b-0128f11eb7d9)
 ![image](https://github.com/RINHALEE/harin_POS/assets/128150726/c292b1d6-2a5c-4d33-8418-ab615cf2cdc3)
+![image](https://github.com/RINHALEE/harin_POS/assets/128150726/ff806146-4453-4973-8cf5-125c8cd5eb2b)
+
+### 7. 계정 관리 기능
+![image](https://github.com/RINHALEE/harin_POS/assets/128150726/c1297ec6-9068-43dd-92a9-10820a1ca219)
+
 
 ## 개발 관련 노력한점
 1. 패키지 구조 설계:
@@ -64,8 +69,3 @@ Harin_Pos 편의점 POS 시스템을 개발하기 전에 패키지 구조를 체
 제품 판매와 관련된 기능을 개발하여 실제 매출에 대한 처리를 자동화하였습니다. 판매 정보의 저장, 조회, 결제 처리 등의 기능을 구현하여 편의점의 매출 분석과 관리를 지원했습니다.
 6. 통계 기능 개발:
 매출 통계를 생성하고 시각화하여 사용자에게 제공하는 기능을 개발했습니다. 일일, 주간, 월간 판매량과 매출액에 대한 통계를 생성하여 시스템 사용자가 매출 동향을 파악할 수 있도록 했습니다.
-
-![image](https://github.com/RINHALEE/harin_POS/assets/128150726/ff806146-4453-4973-8cf5-125c8cd5eb2b)
-
-### 7. 계정 관리 기능
-![image](https://github.com/RINHALEE/harin_POS/assets/128150726/c1297ec6-9068-43dd-92a9-10820a1ca219)
